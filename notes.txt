@@ -1,0 +1,17 @@
+Transformer : transform the data or normalized the data 
+when we use trasformer we need estimator(i.e model to response)
+Pipeline : transformer + model (in single step)
+
+
+Langchain : it's framework used to build the applications using LLMs 
+acts as a bridge between LLMs and External data source 
+
+Advantages: 
+- prompt template
+- memory 
+- chaining
+
+langchain smith -> debugging , calculations , 
+langchain serve : third parties integration 
+Langchain community : custom output function , memory management 
+
