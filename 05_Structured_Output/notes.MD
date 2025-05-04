@@ -40,5 +40,9 @@
    the pydantic object can also be converted to python dictionary or a json format
 
 3. JSON Schema
-    It is used when your entire project is not made in a single language
-    
+   It is used when your entire project is not made in a single language
+
+# Note
+
+when we are using with_structured_output() function, it has a method parameter - we can set it to - json mode (gemini and cluade)
+function calling (when using agent that calls tools)
